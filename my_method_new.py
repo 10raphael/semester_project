@@ -26,8 +26,6 @@ the code is structured as follows:
 - make_sam_input
 - get_mask (returns mask)
 - find_biggest_mask (which mask to be used for SAM)
-
-beyond the official documentation, links to various sources are provided where I used them, used chatgpt for debugging
 '''
 
 # adjust img_dir to point to the directory where the input sequence (rgb) is saved
